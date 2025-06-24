@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>msigdb-gsea-exporter</name>
-	<description>MSigDB-GSEA data export</description>
+	<description>MSigDB-GSEA data exporter</description>
 	<url>https://reactome.org</url>
 	<licenses>
 		<license>
