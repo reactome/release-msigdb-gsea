@@ -6,7 +6,7 @@ pipeline {
 	agent any
 
 	stages {
-		stage('Main: Run Data-Exporter') {
+		stage('Main: Run MSigDB-GSEA exporter') {
 			steps {
 				script {
 					withCredentials([file(credentialsId: 'Config', variable: 'CONFIG_FILE')]) {
