@@ -1,0 +1,9 @@
+config.properties
+target/
+logs/
+*.jar
+*.txt
+
+# Ignore IntelliJ files
+.idea/
+*.iml
